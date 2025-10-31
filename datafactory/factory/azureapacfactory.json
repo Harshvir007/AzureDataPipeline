@@ -1,0 +1,9 @@
+{
+	"name": "azureapacfactory",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "170d9bb7-4cc5-4ff9-90b6-9a621ea642bd",
+		"tenantId": "a3e3c02e-bd87-440b-b374-4d915216618f"
+	}
+}
