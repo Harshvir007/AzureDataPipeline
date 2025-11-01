@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:\\Users\\harsh\\OneDrive\\Desktop\\chachi backup\\CRM+Sales+Opportunities",
+			"host": "C:\\ADF_SourceFiles\\CRM+Sales+Opportunities",
 			"userId": "popla\\harsh",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzNjIzZWQyZi0zMWYwLTRiZjgtYWY2MC1lZjA4MjJkNmYxOTgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI5MTllNzY5NC05MDFiLTQ0ZDQtOWQ2Zi0zNjVmZjY1ZjYyOWUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "OnPremtoAzureIntegrationRuntime",
