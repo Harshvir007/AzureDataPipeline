@@ -1,7 +1,3 @@
-
-
-
-
 # Azure End-to-End Data Engineering Pipeline
 
 This project demonstrates a robust, enterprise-grade data engineering pipeline built on the **Microsoft Azure Cloud** platform. It covers the entire lifecycle of data—from ingestion from external sources to final visualization—while emphasizing security, monitoring, and version control.
@@ -68,3 +64,4 @@ The pipeline follows a structured "Medallion-style" flow to ensure data reliabil
 
 ## 📈 Monitoring & Reliability
 The pipeline includes built-in monitoring via **Azure Monitor**. If a stage fails, **Logic Apps** automatically sends a status email to the data engineering team with the specific error logs for
+
