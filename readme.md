@@ -1,3 +1,7 @@
+
+
+
+
 # Azure End-to-End Data Engineering Pipeline
 
 This project demonstrates a robust, enterprise-grade data engineering pipeline built on the **Microsoft Azure Cloud** platform. It covers the entire lifecycle of data—from ingestion from external sources to final visualization—while emphasizing security, monitoring, and version control.
