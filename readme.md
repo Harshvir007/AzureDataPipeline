@@ -63,5 +63,5 @@ The pipeline follows a structured "Medallion-style" flow to ensure data reliabil
 ---
 
 ## 📈 Monitoring & Reliability
-The pipeline includes built-in monitoring via **Azure Monitor**. If a stage fails, **Logic Apps** automatically sends a status email to the data engineering team with the specific error logs for
+The pipeline includes built-in monitoring via **Azure Monitor**. If a stage fails, **Logic Apps** automatically sends a status email to the data engineering team with the specific error logs for triage.
 
