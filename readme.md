@@ -53,7 +53,7 @@ The pipeline follows a structured "Medallion-style" flow to ensure data reliabil
 
 1.  **Clone the Repo**: 
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [((https://github.com/Harshvir007/AzureDataPipeline/tree/main))]
     ```
 2.  **Setup Key Vault**: Add your connection strings and secrets to Azure Key Vault.
 3.  **Configure ADF**: Import the JSON pipeline definitions and link your SHIR.
